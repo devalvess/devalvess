@@ -7,27 +7,16 @@ Construo plataformas de dados no Azure: ingestão de bancos transacionais e sist
 arquitetura medalhão (Bronze, Silver e Gold) com Unity Catalog, governança de dados pessoais e
 controle de custo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-alves-dos-santos-23b0a51ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-santoss/)
 
 ---
 
-### Projeto em destaque
+### Certificações
 
-#### [Banking CDC Lakehouse Lab](https://github.com/devalvess/banking-cdc-lakehouse-lab)
-
-Laboratório de ponta a ponta para um banco migrando de sistemas legados on-premises para o
-Azure Databricks:
-
-- **CDC por log**: IBM Db2 → Debezium → Kafka → Lakeflow com AUTO CDC (SCD2)
-- **Reverse ETL**: devolução de dados da Gold para o Db2 on-prem via staging + procedure, sem
-  travar a produção, com validação por contagem e soma e auditoria dos dois lados
-- **Legado sem CDC**: carga incremental via JDBC, detecção de deletes e reconciliação
-- **Governança e FinOps**: máscaras de PII e filtro por região no Unity Catalog; custo real do
-  projeto lido da fatura do Azure
-- **Infraestrutura como código**: Terraform (VNet, NSG, peering), Docker Compose e Databricks
-  Asset Bundles
-
-[![Arquitetura do laboratório](https://raw.githubusercontent.com/devalvess/banking-cdc-lakehouse-lab/main/docs/img/arquitetura.gif)](https://github.com/devalvess/banking-cdc-lakehouse-lab)
+![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Engineer Associate DP-203](https://img.shields.io/badge/Azure_Data_Engineer_Associate-DP--203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Fabric Analytics Engineer DP-600](https://img.shields.io/badge/Fabric_Analytics_Engineer-DP--600-117865?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Fundamentals AZ-900](https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
