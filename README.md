@@ -1,11 +1,6 @@
 ### Olá! Eu sou o Edilson Santos 👋
 
-**Engenheiro de Dados** · Azure Databricks · Lakehouse · CDC · SQL
-Ribeirão Preto/SP
-
-Construo plataformas de dados no Azure: ingestão de bancos transacionais e sistemas legados,
-arquitetura medalhão (Bronze, Silver e Gold) com Unity Catalog, governança de dados pessoais e
-controle de custo.
+**Engenheiro de Dados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-santoss/)
 
@@ -13,7 +8,6 @@ controle de custo.
 
 ### Certificações
 
-![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure Data Engineer Associate DP-203](https://img.shields.io/badge/Azure_Data_Engineer_Associate-DP--203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Fabric Analytics Engineer DP-600](https://img.shields.io/badge/Fabric_Analytics_Engineer-DP--600-117865?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Fundamentals AZ-900](https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -24,8 +18,8 @@ controle de custo.
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
