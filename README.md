@@ -9,7 +9,7 @@
 ### Certificações
 
 ![Azure Data Engineer Associate DP-203](https://img.shields.io/badge/Azure_Data_Engineer_Associate-DP--203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Fabric Analytics Engineer DP-600](https://img.shields.io/badge/Fabric_Analytics_Engineer-DP--600-117865?style=for-the-badge&logo=microsoft&logoColor=white)
+![Fabric Data Engineer Associate DP-700](https://img.shields.io/badge/Fabric_Data_Engineer_Associate-DP--700-117865?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure Fundamentals AZ-900](https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
